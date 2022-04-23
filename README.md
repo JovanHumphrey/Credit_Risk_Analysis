@@ -16,6 +16,7 @@
 
 ### Oversampling
 <p>Random oversampling involves randomly selecting examples from the minority class, with replacement, and adding them to the training dataset. The results of this model classified 51366 records for both high- and low-risk.
+
 ![naive oversampling](https://github.com/JovanHumphrey/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/images/resample_naive_classification_report_imbalanced.JPG)
 
 ### SMOTE
