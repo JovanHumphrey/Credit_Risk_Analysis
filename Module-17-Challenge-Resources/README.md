@@ -47,12 +47,12 @@
 
 The six models have a variety of outcomes. Below is the ranking of most accurate to least using the results of the high-risk category:
 
-•	EasyEnsembleClassifier: 93% accuracy, 8% precision, 92% recall and 15% F1 Score
-•	BalancedRandomForestClassifier: 74% accuracy, 3% precision, 62% recall and 6% F1 Score
-•	SMOTE: 66% accuracy, 1% precision, 63% recall and 2% F1 Score
-•	SMOTEEN: % accuracy, 66% precision, 73% recall and 2% F1 Score
-•	RandomOverSampler: 64% accuracy, 1% precision, 71% recall and 2% F1 Score
-•	ClusterCentroids: 52% accuracy, 1% precision, 69% recall and 1% F1 Score
+<p>•	EasyEnsembleClassifier: 93% accuracy, 8% precision, 92% recall and 15% F1 Score</p>
+<p>•	BalancedRandomForestClassifier: 74% accuracy, 3% precision, 62% recall and 6% F1 Score</p>
+<p>•	SMOTE: 66% accuracy, 1% precision, 63% recall and 2% F1 Score</p>
+<p>•	SMOTEEN: % accuracy, 66% precision, 73% recall and 2% F1 Score</p>
+<p>•	RandomOverSampler: 64% accuracy, 1% precision, 71% recall and 2% F1 Score</p>
+<p>•	ClusterCentroids: 52% accuracy, 1% precision, 69% recall and 1% F1 Score</p>
 
 
 ### Recommendation
