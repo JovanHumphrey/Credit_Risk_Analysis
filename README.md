@@ -10,7 +10,7 @@
 
 ![value counts](https://github.com/JovanHumphrey/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/images/resample_value_counts.JPG)
 
-<p>.With that out of the way I was able to get to work. I tested the dataset using the six models listed above.</p>
+<p>With that out of the way I was able to get to work. I tested the dataset using the six models listed above.</p>
 
 ## Evaluation
 
